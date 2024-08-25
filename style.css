@@ -2,7 +2,6 @@
 
 *{
     font-family: 'poppins', sans-serif;
-    user-select: none;
 }
 
 body {
@@ -45,7 +44,6 @@ body {
 
 .display:hover{
     border: 2px solid white;
-    color: white;
     transition: .6s;
 }
 
